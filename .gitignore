@@ -1,6 +1,6 @@
 rsconnect/
 *.RData
 *.Rhistory
-*.code-workspace
-*.ipynb_checkpoints
-*.idea
+.code-workspace
+.ipynb_checkpoints
+.idea
